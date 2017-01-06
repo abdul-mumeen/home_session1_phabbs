@@ -1,5 +1,7 @@
+'use strict'
+module.exports = {
 
-aritGeo: function(arrayNumbers)
+aritGeo: function (arrayNumbers)
 {
 	
 	function checkArith(arrayNum)
@@ -68,4 +70,5 @@ aritGeo: function(arrayNumbers)
 	{
 		return -1;
 	}
+}
 }

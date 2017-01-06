@@ -10,7 +10,7 @@
     describe("Case for an empty array", function() {
 
       it("should return 0 for an empty array", function() {
-        expectn(myApp.aritGeo([]) == 0);
+        expect(myApp.aritGeo([]) == 0);
       });
 
     });
